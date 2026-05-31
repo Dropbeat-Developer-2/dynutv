@@ -1,5 +1,4 @@
-#EXTM3U billed-msg="Ahhh Sakit dadaku!!!"
-
+#EXTM3U 
 
 #EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="104.astro" tvg-name="RIA HD" group-title="HOT CHANNEL" tvg-logo="https://i.ibb.co/mC58vXXY/Astro-Ria-2024.png" ch-number="104",104 Ria HD (Not 24H)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -25,9 +24,9 @@ http://ktpremium.site:2095/itv263/9189/1058818
 
 #EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="104.astro" tvg-name="RIA HD" group-title="HOT CHANNEL" tvg-logo="https://i.ibb.co/mC58vXXY/Astro-Ria-2024.png" ch-number="104",104 Ria HD (Not 24H)
 http://217.216.110.49:8000/riay70
-##http://217.216.110.49:8000/riap90
-##https://load.perfecttv.net/rwt.m3u8?username=vip_q71m0c0p&password=TTQtGNkD&channel=ria
-##https://proxy.qeqa.my.id/stream.php?channel=astro_ria_c&user=0819
+http://217.216.110.49:8000/riap90
+https://load.perfecttv.net/rwt.m3u8?username=vip_q71m0c0p&password=TTQtGNkD&channel=ria
+https://proxy.qeqa.my.id/stream.php?channel=astro_ria_c&user=0819
 
 #EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="HOT CHANNEL" tvg-logo="https://i.ibb.co/NdBb6rQ8/Astro-Prima-2024.png" ch-number="105",105 Prima HD (Not 24H)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -79,12 +78,9 @@ http://ktpremium.site:2095/itv263/9189/1058821
 
 #EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="HOT CHANNEL" group-logo="" tvg-logo="https://i.ibb.co/0NsR6fJ/Astro-Citra-2024.png" ch-number="108",108 Citra HD (Not 24H)
 http://217.216.110.49:8000/citray70
-##http://217.216.110.49:8000/citrap90
-##https://load.perfecttv.net/rwt.m3u8?username=vip_q71m0c0p&password=TTQtGNkD&channel=citra
+http://217.216.110.49:8000/citrap90
+https://load.perfecttv.net/rwt.m3u8?username=vip_q71m0c0p&password=TTQtGNkD&channel=citra
 
-
-
-##404
 #EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="BOO" tvg-name="BOO" tvg-logo="https://i.ibb.co/hF69DQJq/Astro-Boo-2024.png" group-title="HOT CHANNEL" ch-number="404",404 BOO (Not 24H)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -102,9 +98,9 @@ https://20c45cf794ec4a3cac12fb76717fd621.mediatailor.ap-southeast-1.amazonaws.co
 https://linears2-playback.astro.com.my/vsg/41L7eoML7MfkpsFs-7zVhAsmutJ-KJ9YcTGUpn7jpmdNk=j0K8/dash-wv/jitp-linearwm/2407/default_ott.mpd
 
 #EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="BOO" tvg-name="BOO" tvg-logo="https://i.ibb.co/hF69DQJq/Astro-Boo-2024.png" group-title="HOT CHANNEL" ch-number="404",404 BOO (Not 24H)
-##http://217.216.110.49:8000/booy70
+http://217.216.110.49:8000/booy70
 http://217.216.110.49:8000/boop90
-##https://load.perfecttv.net/rwt.m3u8?username=vip_q71m0c0p&password=TTQtGNkD&channel=boo
+https://load.perfecttv.net/rwt.m3u8?username=vip_q71m0c0p&password=TTQtGNkD&channel=boo
 
 
 
